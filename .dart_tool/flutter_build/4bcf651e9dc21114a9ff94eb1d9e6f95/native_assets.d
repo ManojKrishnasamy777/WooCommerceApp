@@ -1,0 +1,1 @@
+ C:\\Projects\\Flutter\ mobile\ app\\woocommerece\\AppFiles\\cartuser-app-source-v1.2\\.dart_tool\\flutter_build\\4bcf651e9dc21114a9ff94eb1d9e6f95\\native_assets.yaml: 

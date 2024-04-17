@@ -1,0 +1,1 @@
+ C:\\Projects\\Flutter\ mobile\ app\\POSWoocommerceMobile\\.dart_tool\\flutter_build\\b4ef53d4a50b22a3052df3452756bafd\\native_assets.yaml: 
